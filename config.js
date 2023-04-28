@@ -7,23 +7,23 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['254743551426']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['254743551416']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['254743551416']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "Malibu"
+global.packname = "Malibu bot"
+global.author = "By: Malibu"
+global.OwnerName = "Malibu"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['.'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
+global.location = "Nairobi, Kenya"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
@@ -51,7 +51,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = ['false']
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
